@@ -1,0 +1,14 @@
+body{
+  background-color: blue;
+}
+.nosignal{
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(41, 35, 35, 0.815);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border: none;
+  position: absolute;
+}
