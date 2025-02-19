@@ -40,11 +40,11 @@ cd nosignal-app
 
 
 
-📝 Usage
+# 📝 Usage
 
 Simply open the index.html file in any modern web browser, and watch the "No Signal" text move randomly across the screen!
 
-📌 To-Do
+# 📌 To-Do
 
 Add more movement effects
 
