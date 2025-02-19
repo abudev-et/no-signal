@@ -25,12 +25,12 @@ Smooth and simple animation using JavaScript
 # 📂 Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/abudev/nosignal-app.git
+```
 
-```
 2. Open the project folder:
-```
+
 
 ``
 cd nosignal-app
