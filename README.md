@@ -26,7 +26,7 @@ Smooth and simple animation using JavaScript
 
 1. Clone the repository:
 ```
-git clone https://github.com/abudev/no-signal.git
+git clone https://github.com/abudev-et/no-signal.git
 ```
 
 2. Open the project folder:
