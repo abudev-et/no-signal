@@ -1,6 +1,7 @@
 # 📺 NoSignal App
 
-A simple web-based application that mimics the "No Signal" screen from old TVs. The "No Signal" text moves randomly across the screen on a blue background.
+A simple web-based application that mimics the "No Signal" screen from old TVs. The "No Signal" text moves randomly across the screen on a blue background. This project everything made with myself. I saw my TV the blue screen and the
+text goes randomly. Then I want to make this with my self to improve my coding and JavaScript skill
 
 # ✨ Features
 
